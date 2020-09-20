@@ -16,7 +16,7 @@ It is a web app where a person can register himself as an employer or employee t
 <li>2.Apply for the jobs! (A template mail with applicant details will be send to the the employer)</li>
 <li>3.Update status which will be visible globally & delete his own status!</li>
 <li>4.Edit & write ones profile page!</li>
-<li>5.As many type one edits his profile, the CV gets generated & saved!(Old CV gets deleted for space management)</li>
+<li>5.As many type one edits his profile.</li>
 <li>6.Apply search queries based on the skills required for a job!</li>
 </ul>
 <h2>
